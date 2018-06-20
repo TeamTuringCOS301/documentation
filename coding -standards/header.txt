@@ -1,8 +1,8 @@
 --------------------------------------------------------------------
-Project:		ERP-Coin
+Project:	ERP-Coin
 Version Number:	1.0.0 / 2018
 
-Company:		EPI-USE
+Company:	EPI-USE
 
 Author/s:       Kyle Pretorius
                 Ulrik de Muelenaere
