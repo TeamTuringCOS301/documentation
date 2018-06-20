@@ -1,0 +1,20 @@
+--------------------------------------------------------------------
+Project:		ERP-Coin
+Version Number:	1.0.0 / 2018
+
+Company:		EPI-USE
+
+Author/s:		Kyle Pretorius
+			    Ulrik de Muelenaere
+			    Tristan Rothman
+			    Sewis van Wyk
+			    Richard Dixie
+			    Darius Scheepers
+
+@Nodejs Version 10.0.2 (or Ionic version, or SQL, etc.)
+
+Purpose Statement:	(one or two line description)
+--------------------------------------------------------------------
+
+
+(add a purpose statement before each class or complex function)
